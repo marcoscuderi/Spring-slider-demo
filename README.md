@@ -6,7 +6,8 @@ K.Linton and R. Stein 2012 SRL
 https://www.seismosoc.org/Publications/SRL/SRL_83/srl_83-1_eq/
 
 My version of the QuakeSimulator is designed to show in real time the movement of the block and record the data.
-This is useful to analyze the results and build exercises for the students
+This is useful to analyze the results and build exercises for the students.
+I have added a short video of a portion of one demontration I made in class (my students are italians so excuse me if you do not understand). 
 
 # Main Components
 
