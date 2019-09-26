@@ -15,7 +15,7 @@ The system is characterized by (figure 1):
 2) A home made circuit with a potentiometer to regulate the velocity of the motor. 
 If you don't have the possibility to build this circuit there are some out of shelf products that can do this for you.
 Note that the circuit is not necessary, the motor can also be powered directly by direct current and it will move at a single speed. 
-3) Arduino Uno board 
+3) Arduino Uno board (see figure 2 for a schematic of the circuit and connection to the arduino board)
 4) A potentiometer to measure displacement. (put some link)
 5) A potentiometer holder. I have a friend that works at a machine shop that can easily work aluminum.
 I recommend to contact a machine shop.
@@ -26,4 +26,9 @@ In the future I will make a second version that will use an ultrasonic sensor to
 
 # Codes
 
-1) 
+1) arduino_setup.ino
+This is the code that must be uploaded to the Arduino Uno board to allow the readings of the potentiometer.
+2) python_recording
+This code should be executed in python and allows to show real time data and record the data
+3) calibration 
+for the ones that are not used to laboratory work, the potentiometer needs to be calibrated to converst the voltage readings in engineering units of displacement. The calibration shold be done manually and it should result in something similar as reported from the excution of this script. The slope represents the calibration number.
