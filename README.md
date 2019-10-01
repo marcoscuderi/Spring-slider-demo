@@ -17,7 +17,7 @@ The system is characterized by (figure 1):
 If you don't have the possibility to build this circuit there are some out of shelf products that can do this for you.
 Note that the circuit is not necessary, the motor can also be powered directly by direct current and it will move at a single speed. 
 3) Arduino Uno board (see figure 2 for a schematic of the circuit and connection to the arduino board)
-4) A potentiometer to measure displacement. (put some link)
+4) A potentiometer to measure displacement. (https://www.cw-industrialgroup.com/Products/Sensors/Linear-Position-Sensors-Transducers/Linear-Displacement-Sensor-SLS130)
 5) A potentiometer holder. I have a friend that works at a machine shop that can easily work aluminum.
 I recommend to contact a machine shop.
 In the future I will make a second version that will use an ultrasonic sensor to measure displacement which doesn't need the building of a holder. Once tested I will upload the code and instructions.
